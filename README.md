@@ -35,7 +35,17 @@
 - <a href="">Multiparty control and payments with smart contracts</a>
 - <a href=""> ORACLES</a>
 - <a href="">Handing smart contract payments</a>
+- 
+## Multichain
 
+
+## IOTA and Blockchain
+- Blockchain Challenges
+- Intro to IOTA
+- Use cases:
+  - Supply chain
+  - Finance
+  - Healthcare
 ## Capstone Project
 
 - <a href=""></a>
