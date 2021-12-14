@@ -5,6 +5,7 @@
 ## Blockchain Fundamentals
 
 - <a href="">Blockchain Basics</a>
+  - <a href="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/All%20about%20crypto.md">All about crypto</a>
   - <a href="">Blockchain Pillars</a>
 - <a href=""> Managing Blockchain Transactions</a>
     - <a href="">Cryptography</a>
