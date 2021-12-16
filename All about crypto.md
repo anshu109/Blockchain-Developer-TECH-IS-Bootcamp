@@ -1,5 +1,6 @@
 # All about crypto
-![crypto](/Users/musubimanagement/Desktop/Blockchain/crypto.jpg?raw=true "Title")
+![crypto](crypto.jpg)
+
 
 The world of crypto is full of technical jargon that can confuse even the savviest technology ninja. Bitcoin introduced the concept of crypto-economics and paved the way for the creation of many blockchain platforms. Before we dive deep into how a blockchain works, let’s understand what cryptoeconomics is and the underlying concepts behind a blockchain
 
