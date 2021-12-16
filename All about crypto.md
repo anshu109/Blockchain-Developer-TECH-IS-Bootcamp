@@ -11,3 +11,9 @@ This is using the techniques of encryption and decryption to send and receive me
 ## Cryptocurrency:
 This is using cryptography the same way as the earlier SSL or video example but specifically to fit the needs of a digital asset
 Cryptoeconomics: This is the combination of cryptography and economics to provide a platform to pass digital assets.
+
+According to the developer of Etherium, Vlad Zamfir,
+
+“Cryptoeconomics is a formal discipline that studies protocols that govern the production, distribution, and consumption of goods and services in a decentralized digital economy. Cryptoeconomics is a practical science that focuses on the design and characterization of these protocols.”
+
+The blockchain technology runs on the principles of cryptoeconomics
