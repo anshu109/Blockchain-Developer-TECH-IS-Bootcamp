@@ -1,6 +1,6 @@
 # All about crypto
 
-<img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/crypto.jpg?raw=true" alt="Crypto" width="1800" height="400"/>
+<img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/crypto.jpg" alt="Crypto" width="1800" height="400"/>
 
 The world of crypto is full of technical jargon that can confuse even the savviest technology ninja. Bitcoin introduced the concept of crypto-economics and paved the way for the creation of many blockchain platforms. Before we dive deep into how a blockchain works, let’s understand what cryptoeconomics is and the underlying concepts behind a blockchain
 
