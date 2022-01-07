@@ -1,5 +1,5 @@
 # Blockchain Intro
-<img href="Images/Blockchain_intro.jpg"/>
+<img href="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/Blockchain_intro.jpg" width="1800" height="400"/>
 
 ## How it all started?
 
