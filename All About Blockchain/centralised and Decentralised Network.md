@@ -1,2 +1,2 @@
 # Centralised Network
-![centralised](centralised_network.gif)
+![centralised](/Images/centralised_network.gif)
