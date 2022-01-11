@@ -28,4 +28,16 @@ Each Block has
 - Data
 - Hash
 - Hash of the previous block
+  
+<img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/Block.png" width="800" height="400"/>
+  
+**We know about the data but what is Hash?**
+  
+A digital hash is like a fingerprint of some amount of data  which is unique to each block just like a fingerprint. So once a block is created, any change inside the block will cause the hash to change. If the fingerprint of a block changes, it does not remain the same block.
+  
+  <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/Block.png" width="800" height="400"/>
+  
 
+### Genesis Block
+  The first block in a blockchain network is called the Genesis Block. Since this is the first block it doesnt have any previous hash and previous hash will be equal to 0
+  
