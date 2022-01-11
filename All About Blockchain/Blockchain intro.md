@@ -1,4 +1,4 @@
-# Blockchain Intro
+# Blockchain Introduction
 
 <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/Blockchain_intro.jpg" width="1800" height="400"/>
 
