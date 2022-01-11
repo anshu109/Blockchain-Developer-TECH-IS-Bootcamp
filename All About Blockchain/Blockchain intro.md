@@ -35,7 +35,7 @@ Each Block has
   
 A digital hash is like a fingerprint of some amount of data  which is unique to each block just like a fingerprint. So once a block is created, any change inside the block will cause the hash to change. If the fingerprint of a block changes, it does not remain the same block.
   
-  <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/Block.png" width="800" height="400"/>
+  <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/hash.png" width="800" height="400"/>
   
 
 ### Genesis Block
