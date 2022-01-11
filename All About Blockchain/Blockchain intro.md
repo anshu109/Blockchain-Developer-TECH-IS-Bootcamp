@@ -39,9 +39,10 @@ A digital hash is like a fingerprint of some amount of data  which is unique to 
   
 
 ### Genesis Block
-  The first block in a blockchain network is called the Genesis Block. Because after the block chain is initialized, that block will always stay block number one forever and ever and ever for eternity.Since this is the first block it doesnt have any previous hash and previous hash will be equal to 0
+  The first block in a blockchain network is called the Genesis Block. Because after the block chain is initialized, that block will always stay block number one forever and ever and ever for eternity. Since this is the first block it doesnt have any previous hash and previous hash will be equal to 0
  
 ### But how blockchains are created ?
   
-  
-  
+  - First block will be the Genesis block. It will have some data and a hash value but willnot have any previous hash.
+  - Second Block will have again some data and its hash and hash of genesis/ first block (previous hash)
+  <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/bc-network.png" width="800" height="400"/>
