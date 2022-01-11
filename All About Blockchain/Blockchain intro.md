@@ -20,6 +20,12 @@ According to wikipedia A blockchain is a growing list of records, called blocks,
 Today the most popular cryptocurrency  “Bitcoin” runs on blockchain technology and that is one reason why this cryptocurrency is becoming popular with each passing day. Because of the transparency in each step of a transaction in blockchain technology, now most of the businesses are adopting it globally.
 
   
+ ### let's have a look at one of these records or so-called Bloks.
   
+As the name suggests a blockchain is nothing but a chain of blocks with some information.
   
-  
+Each Block has
+- Data
+- Hash
+- Hash of the previous block
+
