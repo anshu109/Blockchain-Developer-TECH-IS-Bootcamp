@@ -46,3 +46,12 @@ A digital hash is like a fingerprint of some amount of data  which is unique to 
   - First block will be the Genesis block. It will have some data and a hash value but willnot have any previous hash.
   - Second Block will have again some data and its hash and hash of genesis/ first block (previous hash)
   <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/bc-network.png" width="800" height="400"/>
+  
+  As you can see, previous hash in block 2 is exactly identical or is exactly block number once hash. and previous hash in block number 3 is exactly identical or exactly block number 2 hash. And that is where the link comes. That is why a blockchain is called a chain or a block chain, because the blocks are cryptographically linked with each other through these hashes.
+  
+  ### But what happens when someone tries to tamper the transaction?
+In order to create a blockchain network, hash of current block should always match with previous hash of the next block
+
+  Assume an attacker is able to change the data present in the Block 2. Correspondingly, the Hash of the Block also changes. But, Block 3 still contains the old Hash of Block 2. This makes Block 3, and all succeeding blocks invalid as they do not have the correct hash of the previous block. 
+  
+  This makes a blockchain network a most secured netework
