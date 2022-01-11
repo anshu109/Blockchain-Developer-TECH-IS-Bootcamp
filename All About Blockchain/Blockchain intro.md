@@ -54,6 +54,6 @@ In order to create a blockchain network, hash of current block should always mat
 
   Assume an attacker is able to change the data present in the Block 2. Correspondingly, the Hash of the Block also changes. But, Block 3 still contains the old Hash of Block 2. This makes Block 3, and all succeeding blocks invalid as they do not have the correct hash of the previous block. 
   
-  <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/tampered-blockchain.png" width="800" height="400"/>
+  <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/tampered-blockchain.png" width="800" height="300"/>
   
   This makes a blockchain network a most secured netework
