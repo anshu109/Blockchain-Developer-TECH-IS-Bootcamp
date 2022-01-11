@@ -33,11 +33,15 @@ Each Block has
   
 **We know about the data but what is Hash?**
   
-A digital hash is like a fingerprint of some amount of data  which is unique to each block just like a fingerprint. So once a block is created, any change inside the block will cause the hash to change. If the fingerprint of a block changes, it does not remain the same block.
+A digital hash is like a fingerprint of some amount of data  which is unique to each block just like a fingerprint. So once a block is created, any change inside the block will cause the hash to change. If the fingerprint of a block changes, it does not remain the same block.That is a major reason why it is almost impossible to hack a blockchain network because even a minute change can change the entire network.
   
   <img src="https://github.com/anshu109/Blockchain-Developer-TECH-IS-Bootcamp/blob/main/Images/hash.png" width="800" height="400"/>
   
 
 ### Genesis Block
-  The first block in a blockchain network is called the Genesis Block. Since this is the first block it doesnt have any previous hash and previous hash will be equal to 0
+  The first block in a blockchain network is called the Genesis Block. Because after the block chain is initialized, that block will always stay block number one forever and ever and ever for eternity.Since this is the first block it doesnt have any previous hash and previous hash will be equal to 0
+ 
+### But how blockchains are created ?
+  
+  
   
